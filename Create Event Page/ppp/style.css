@@ -1,0 +1,159 @@
+.modal{
+    height: 200px;
+    width: 200px;
+    padding-inline: 10px;
+    background-color: black;
+}
+.row{
+    margin: 15px 0;
+    padding: 5px;
+}
+
+.row input{
+    border: 1px solid rgba(68, 75, 171, 0.1);
+}
+
+
+
+body{
+    margin: 0;
+}
+.row input::placeholder{
+    font-size: 20px;
+    padding: 0px;
+    color: rgba(170, 170, 170, 1);
+
+    padding-top: 500px;
+    margin: 0px;
+    /* font-size: 500px; */
+}
+.level1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'League Spartan', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-size: 24px;
+}
+.fa-solid, .fa-plus{
+    font-size: 35px;
+    padding-bottom: 0%;
+    margin-top: 9px;
+}
+.level1 .row label{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    padding-left: 0px;
+}
+
+.addimg{
+    display: flex;
+    justify-content: left;
+    /* justify-content: space-between; */
+}
+
+.addimg>p{
+    font-size: 35px;
+}
+
+
+
+.addimg{
+    font-family: 'League Spartan', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-size: 30px;
+color:  rgba(67, 91, 175, 1);
+
+}
+
+.level3{
+    gap: 10px;
+}
+
+.level3a, .level3c{
+    display: flex;
+    justify-content: space-between;
+   
+    margin-bottom: 20px;
+    margin-top: 20px;
+    
+}
+
+.level3a label, .level3c label{
+    padding-right: 210px;
+}
+.level3b, .level3d {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+.level3b input, .level3d input, .level3d select{
+    padding-left: 65px;
+    text-decoration: none;
+    border: 1px solid rgba(68, 75, 171, 0.3);
+}
+.level3d input{
+    padding-left: 440px;
+    text-decoration: none;
+    border: 1px solid rgba(68, 75, 171, 0.3);
+}
+.level3d select{
+    padding-left: 405px;
+    text-decoration: none;
+    border: 1px solid rgba(68, 75, 171, 0.3);
+}
+
+.level3d{
+    justify-content: space-between;
+}
+
+.level3{
+    font-family: 'League Spartan', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    margin: 5px 0px;
+}
+
+
+.level4{
+    display: flex;
+    /* padding-right: 0px; */
+    margin-top: 40px;
+    padding-left: 1050px;
+    margin-right: 0;
+    padding-right: 0;
+    /* flex-direction: row-reverse; */
+    /* justify-content: flex-end; */
+    /* padding-left: 100px; */
+}
+
+#btn{
+    color:rgba(255, 255, 255, 1);
+    font-family: 'League Spartan', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 6px;
+    height: 45px;
+   padding-left: 25px;
+   padding-right: 25px;
+    width: 400px;
+    font-size: 20px;
+   
+   background: linear-gradient(93.44deg, #444BAB -6.8%, #3CA5C2 186.94%);}
+
+
+   .level4{
+    margin-left: 140px;
+   }
+
+
+   input[type="date"]:in-range::-webkit-datetime-edit-year-field, input[type="date"]:in-range::-webkit-datetime-edit-month-field, input[type="date"]:in-range::-webkit-datetime-edit-day-field, input[type="date"]:in-range::-webkit-datetime-edit-text { 	color: transparent; }
+   input[type="time"]:in-range::-webkit-datetime-edit-hour-field, input[type="time"]:in-range::-webkit-datetime-edit-minute-field, input[type="time"]:in-range::-webkit-datetime-edit-ampm-field, input[type="time"]:in-range::-webkit-datetime-edit-text { 	color: transparent; }
+
+   input[type="number"]
+    {  -webkit-appearance: "Always Show Up/Down Arrows";}
+
+#nop{
+    margin-right: 55px;
+}
+   

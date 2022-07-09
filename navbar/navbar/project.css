@@ -1,0 +1,72 @@
+   #bgimg{
+    width: 100%;
+    height: 500px;
+   }
+
+.innerpart{
+   display: flex;
+    justify-content: center;
+    margin: 200px 5px 10px 5px;
+    position: relative;
+    bottom: 600px;
+    overflow-y: none;
+}
+ .innerpic{
+    margin-right: 20px;
+    
+ }
+ .intext{
+    margin-left: 60px;
+ }
+ #pic{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    bottom:30px ;
+    overflow-y: none;
+
+    
+ }
+ .font{
+    color: antiquewhite;
+    font-size: 45px;
+    font-weight: 900px;
+    position: relative;
+    bottom: 50px;
+    
+ }
+ #fonttext{
+   font-size: 25px;
+ }
+ #btpic{
+    position: relative;
+    bottom: 610px;
+    width: 1510px;
+    overflow-y: none;
+    
+ }
+ #touch{
+   font-size: 30px;
+   border-radius: 15px;
+   background-color: rgb(156, 189, 239);
+   margin: auto;  
+  padding: 10px;
+  text-align: center;
+  position: relative;
+   bottom: 30px;
+   color: rgb(14, 5, 69);
+   overflow-y: none;
+ }
+ #regbt{
+   font-size: 30px;
+   border-radius: 15px;
+   background-color: rgb(206, 197, 62);
+   margin: auto;  
+  padding: 5px;
+  text-align: center;
+  padding: 8px 8px ;
+  font-weight: 900px;
+  
+  
+   
+ }

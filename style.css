@@ -1,0 +1,209 @@
+#bgimg{
+    width: 100%;
+    height: 500px;
+   }
+
+.innerpart{
+   display: flex;
+    justify-content: center;
+    margin: 200px 5px 10px 5px;
+    position: relative;
+    bottom: 600px;
+    overflow-y: none;
+}
+ .innerpic{
+    margin-right: 20px;
+    
+ }
+ .intext{
+    margin-left: 60px;
+ }
+ #pic{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    bottom:30px ;
+    overflow-y: none;
+
+    
+ }
+ .font{
+    color: antiquewhite;
+    font-size: 45px;
+    font-weight: 900px;
+    position: relative;
+    bottom: 50px;
+    
+ }
+ #fonttext{
+   font-size: 25px;
+ }
+ #btpic{
+    position: relative;
+    bottom: 610px;
+    width: 1510px;
+    overflow-y: none;
+    
+ }
+ #touch{
+   font-size: 30px;
+   border-radius: 15px;
+   background-color: rgb(156, 189, 239);
+   margin: auto;  
+  padding: 10px;
+  text-align: center;
+  position: relative;
+   bottom: 30px;
+   color: rgb(14, 5, 69);
+   overflow-y: none;
+ }
+ #regbt{
+   font-size: 30px;
+   border-radius: 15px;
+   background-color: rgb(206, 197, 62);
+   margin: auto;  
+  padding: 5px;
+  text-align: center;
+  padding: 8px 8px ;
+  font-weight: 900px;
+  
+  
+   
+ }
+
+
+
+ 
+.parent{
+    display: flex;
+    flex-direction: column;
+    margin: 20px 80px 20px 80px;
+}
+
+.upcoming{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px 10px;
+    padding-bottom: 0px;
+    /* margin-top: 150px; */
+}
+
+
+#ik{
+    margin-right: 35px;
+    margin-bottom: 20px;
+    
+}
+
+.box {
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-start;
+    border: 1px solid #444BAB
+    ;
+    border-radius: 12px;
+    /* padding-right: 100px; */
+    padding-left: 0px;
+    width: 1300px;
+    margin-bottom: 15px;
+}
+
+.pic{
+    margin-right: 0px;
+}
+
+.text{
+    /* display: flex; */
+    /* justify-content: space-between; */
+    padding: 20px;
+    padding-right: 10px;
+    padding-left: 20px;
+    
+    /* padding-right: 15px; */
+}
+
+.name{
+    display: flex;
+    justify-content: space-between;
+}
+#cmp{
+font-family: 'League Spartan', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-size: 30px;
+margin-top: 15px;}
+
+#ik{
+    font-size: 40px;
+    padding-top: 20px;
+    /* font-color: gradient(143.77deg, #3E8EBC 5.24%, #444BAB 84.52%); */
+}
+.fa-solid {
+    color: rgba(68, 75, 171, 1);
+}
+
+h3{
+    font-family: 'League Spartan', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-size: 25px;
+margin: 0px;
+}
+p{
+    font-family:'League Spartan', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.level1{
+     display:flex ;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 0px;
+}
+
+
+#share{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 300px;
+    
+}
+
+#box11{
+    height: 100%;
+    margin-right: 20px;
+}
+.time{
+    font-family: 'League Spartan', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.btn {
+    background: #444BAB;
+    background-image: -webkit-linear-gradient(top, #444BAB, #3CA5C2);
+    background-image: -moz-linear-gradient(top, #444BAB, #3CA5C2);
+    background-image: -ms-linear-gradient(top, #444BAB, #3CA5C2);
+    background-image: -o-linear-gradient(top, #444BAB, #3CA5C2);
+    background-image: linear-gradient(to bottom, #444BAB, #3CA5C2);
+    -webkit-border-radius: 11;
+    -moz-border-radius: 11;
+    border-radius: 11px;
+    font-family: Arial;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    border: solid #ffffff 0px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #18587a;
+    background-image: -webkit-linear-gradient(top, #18587a, #213d4f);
+    background-image: -moz-linear-gradient(top, #18587a, #213d4f);
+    background-image: -ms-linear-gradient(top, #18587a, #213d4f);
+    background-image: -o-linear-gradient(top, #18587a, #213d4f);
+    background-image: linear-gradient(to bottom, #18587a, #213d4f);
+    text-decoration: none;
+  }
+
+  .register{
+    font-family: 'League Spartan', sans-serif;
+font-family: 'Poppins', sans-serif;
+  }
